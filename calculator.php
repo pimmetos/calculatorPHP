@@ -4,7 +4,7 @@ $myName = "Pim van Berlo";// assign value to variable
 
 $number1 = 456; // integer
 
-$number4 = 6.34 // decimal
+$number4 = 6.34; // decimal
 
 $waar = true; // boolean
 $onwaar = false; // boolean
@@ -29,6 +29,7 @@ $array = ["lol","69","HEHE xD","whytho"] // array
 </head>
 
 <body>
+<h1>test</h1>
     <?php
 
         echo $myName;
