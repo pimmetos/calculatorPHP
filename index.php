@@ -12,6 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <body>
+    <!-- Hey Pim! Hoe gaat het vandaag? -->
     <h1>Calculator</h1>
     <p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
         Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque
